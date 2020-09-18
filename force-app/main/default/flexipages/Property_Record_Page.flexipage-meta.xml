@@ -161,6 +161,13 @@
             </componentInstanceProperties>
             <componentName>RecordMap</componentName>
         </componentInstances>
+        <componentInstances>
+            <componentInstanceProperties>
+                <name>animations</name>
+                <value>true</value>
+            </componentInstanceProperties>
+            <componentName>PictureGalleryCard</componentName>
+        </componentInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
         <type>Region</type>
